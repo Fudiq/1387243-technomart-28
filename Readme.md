@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Andrey Bazhenov](https://up.htmlacademy.ru/htmlcss/28/user/1387243).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова].(https://htmlacademy.ru/profile/ankhena)
 
 ---
 
